@@ -158,7 +158,7 @@ export default function ContactPage() {
                   </div>
                   <h3 className="font-medium">E-posta</h3>
                 </div>
-                <p className="text-sm text-muted-foreground">seymanur@email.com</p>
+                <p className="text-sm text-muted-foreground">nurmaynk@gmail.com</p>
               </GlassCard>
 
               <GlassCard>
