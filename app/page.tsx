@@ -118,7 +118,7 @@ export default function HomePage() {
                 {/* Profile Image */}
                 <div className="relative w-48 h-48 sm:w-64 sm:h-64 lg:w-72 lg:h-72 rounded-3xl overflow-hidden bg-gradient-to-br from-lavender/20 via-white to-cyan/20">
                   <Image
-                    src="/images/profile.png"
+                    src="/images/profile.jpg"
                     alt="Şeyma Nur Yanık"
                     fill
                     className="object-cover object-top"
