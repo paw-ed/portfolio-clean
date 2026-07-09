@@ -121,7 +121,7 @@ export default function HomePage() {
                     src="/images/profile.jpeg"
                     alt="Şeyma Nur Yanık"
                     fill
-                    className="object-cover object-top"
+                    className="object-cover"
                     priority
                   />
                 </div>
